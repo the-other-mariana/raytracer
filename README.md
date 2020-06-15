@@ -27,11 +27,10 @@ The second scene focuses on reflection, potentially recursive when you have two 
 
 ![alt text](https://github.com/the-other-mariana/raytracer/blob/master/RayTracer15_MarianaAvalos/test2.png?raw=true)<br />
 
-The third scene focuses on rendering reflection and refraction combined in one material. For this, I coded a loop for 360 frames and created a video that shows how translation, rotation and scaling is also implemented as one of the features. Download the output video [here](https://github.com/the-other-mariana/raytracer/blob/master/prisms-video.mp4). However, a sample frame from that video is the following: <br />
+The third scene focuses on rendering reflection and refraction combined in one material. For this, I coded a loop for 360 frames and created a video that shows how translation, rotation and scaling is also implemented as one of the features. Download the output video [here](https://github.com/the-other-mariana/raytracer/blob/master/prisms-video.mp4). However, a sample frame from that video is stored in this repo and its gif version is the following: <br />
 
-![alt text](https://github.com/the-other-mariana/raytracer/blob/master/RayTracer15_MarianaAvalos/test3.png?raw=true)<br />
+![alt text](https://github.com/the-other-mariana/raytracer/blob/master/prisms-gif.gif)<br />
 
-A preview of the video as a gif:
-![Alt Text](https://gifs.com/gif/prism-video-gif-YWJzr9)
+
 
 
