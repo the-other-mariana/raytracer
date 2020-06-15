@@ -4,8 +4,8 @@ This project consists of a raytracer implementation in Java. It renders .obj fil
 
 ## Specifications
 
-Java version (JRE or JDK): `jre1.8.0_241`
-Execution environment: `JavaSE-1.8`
+Java version (JRE or JDK): `jre1.8.0_241`<br />
+Execution environment: `JavaSE-1.8`<br />
 
 
 ## Usage
@@ -17,5 +17,16 @@ On the `files` folder you can add .OBJ files to render.<br />
 On the class `SampleScene.java` you can change the objects that are rendered in the scene.<br />
 
 ## Sample output
-The program outputs three different scenes. The first scene focuses mainly on the rendering of refraction. This is the output of the first scene:<br />
-![alt text](https://github.com/the-other-mariana/raytracer/blob/master/RayTracer15_MarianaAvalos/test1.png?raw=true)
+The program outputs three different scenes. <br />The first scene focuses mainly on the rendering of refraction. This is the output of the first scene:<br />
+
+![alt text](https://github.com/the-other-mariana/raytracer/blob/master/RayTracer15_MarianaAvalos/test1.png?raw=true)<br />
+
+The second scene focuses on reflection, potentially recursive when you have two reflective objects in front of each other. The output of the second scene is the following:<br />
+
+![alt text](https://github.com/the-other-mariana/raytracer/blob/master/RayTracer15_MarianaAvalos/test2.png?raw=true)<br />
+
+The third scene focuses on rendering reflection and refraction combined in one material. For this, I coded 360 frames and created a video that shows how translation, rotation and scaling is also implemented as one of the features. Download the output video [here](https://github.com/the-other-mariana/raytracer/blob/master/prisms-video.mp4). However, a sample frame from that video is the following: <br />
+
+![alt text](https://github.com/the-other-mariana/raytracer/blob/master/RayTracer15_MarianaAvalos/test3.png?raw=true)<br />
+
+
