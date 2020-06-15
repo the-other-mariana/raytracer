@@ -31,4 +31,7 @@ The third scene focuses on rendering reflection and refraction combined in one m
 
 ![alt text](https://github.com/the-other-mariana/raytracer/blob/master/RayTracer15_MarianaAvalos/test3.png?raw=true)<br />
 
+A preview of the video as a gif:
+![Alt Text](https://j.gifs.com/YWJzr9.gif)
+
 
