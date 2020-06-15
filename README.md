@@ -18,4 +18,4 @@ On the class `SampleScene.java` you can change the objects that are rendered in 
 
 ## Sample output
 The program outputs three different scenes. The first scene focuses mainly on the rendering of refraction. This is the output of the first scene:<br />
-![alt text](https://https://github.com/the-other-mariana/raytracer/blob/master/RayTracer15_MarianaAvalos/test1.png?raw=true)
+![alt text](https://github.com/the-other-mariana/raytracer/blob/master/RayTracer15_MarianaAvalos/test1.png?raw=true)
