@@ -31,6 +31,12 @@ The third scene focuses on rendering reflection and refraction combined in one m
 
 ![alt text](https://github.com/the-other-mariana/raytracer/blob/master/prisms-gif.gif)<br />
 
+## Recognition
+
+This is one of my favorite projects and I am very honored that it was chosen for display at SIGGRAPH 2019 Student Work Exhibit, celebrated in Los Angeles, California. <br />
+
+![alt text](https://github.com/the-other-mariana/raytracer/blob/master/SIGGRAPH-2019.png?raw=true)<br />
+
 
 
 
