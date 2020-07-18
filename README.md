@@ -10,7 +10,7 @@ Execution environment: `JavaSE-1.8`<br />
 
 ## Usage
 
-Download the folder `RayTracer15_MarianaAvalos` and store it in your computer.<br />
+Download the folder `RayTracer15_MarianaAvalos` and store it in your computer. This is all the source code.<br />
 Import the folder to Eclipse IDE.<br />
 Run `RayTracing.java`.<br />
 On the `files` folder you can add .OBJ files to render.<br />
